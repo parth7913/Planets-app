@@ -1,4 +1,4 @@
-# bmi_calc_animated
+# Planet App
 
 ## Preview
 
